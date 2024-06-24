@@ -22,8 +22,8 @@ I'm a second-year Computer Science student with a passion for web development an
 - **Linux**: I use Arch BTW.
 
 ## 📚 Currently Learning
-- MERN Stack: (MongoDB, Express, React, Node.js)
-- Network & network security.
+- **MERN Stack**: (MongoDB, Express, React, Node.js)
+- **Network & network security.**
 
 ## 🔭 Projects
 
