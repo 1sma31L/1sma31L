@@ -34,6 +34,3 @@ I'm a second-year Computer Science student with a passion for web development an
 - **Current**: Engineer degree in Computer Science, Higher National School of Advanced Technologies - Algeria, 2nd Year.
 - **Future**: Planning to specialize in Cybersecurity
 
-## 📫 Contact Me
-- **Email**: [am.boussekine@ensta.edu.dz](mailto:your.email@example.com)
-- **LinkedIn**: [Ismail M. BOUSSEKINE](https://www.linkedin.com/in/ismail-boussekine/)
