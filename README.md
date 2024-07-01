@@ -25,6 +25,10 @@ I'm a second-year Computer Science student with a passion for web development an
 - **MERN Stack**: (MongoDB, Express, React, Node.js)
 - **Information security.**
 
+## 🎓 Education
+- **Current**: Engineer degree in Computer Science, Higher National School of Advanced Technologies - Algeria, 2nd Year.
+- **Future**: Planning to specialize in Cybersecurity
+
 ## 🔭 Projects
 
 ### [Astronomy.](https://github.com/1sma31L/astronomy)
@@ -34,7 +38,4 @@ I'm a second-year Computer Science student with a passion for web development an
 ### [To-Do List](https://github.com/1sma31L/TODO-app)
 **To-Do List** is a web app to log your tasks and mark theme as done or remove them.
 
-## 🎓 Education
-- **Current**: Engineer degree in Computer Science, Higher National School of Advanced Technologies - Algeria, 2nd Year.
-- **Future**: Planning to specialize in Cybersecurity
 
