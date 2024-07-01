@@ -5,11 +5,11 @@ I'm a second-year Computer Science student with a passion for web development an
 ## 🛠 Skills & Interests
 
 ### Languages  : 
-- Python
-- C
-- LaTeX
 - HTML/CSS
 - JavaScript
+- C
+- Python
+- LaTeX
 
 
 ### Interests
