@@ -28,7 +28,9 @@ I'm a second-year Computer Science student with a passion for web development an
 ## 🔭 Projects
 
 ### [Astronomy.](https://github.com/1sma31L/astronomy)
-**Astronomy** is an animated landing page to practice HTML/CSS, it's beautiful, feel free to contribute and fix my code!  
+**Astronomy** is an animated landing page to practice HTML/CSS, it's beautiful, feel free to contribute and fix my code! 
+[To-Do List]()
+**To-Do List** is a web app to log your tasks and mark theme as done or remove them.
 
 ## 🎓 Education
 - **Current**: Engineer degree in Computer Science, Higher National School of Advanced Technologies - Algeria, 2nd Year.
