@@ -33,7 +33,7 @@ I'm a second-year Computer Science student with a passion for web development an
 ## 🔭 Projects
 
 ### [Music Player](https://github.com/1sma31L/Music-player)
-**Music Player** is first try on creat web music player or should i say "Where Is My Mind?" player.
+**Music Player** is first try on creat web music player or should I say "Where Is My Mind?" player.
 ### [To-Do List](https://github.com/1sma31L/TODO-app)
 **To-Do List** is a web app to log your tasks and mark theme as done or remove them.
 
