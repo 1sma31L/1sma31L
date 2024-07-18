@@ -1,4 +1,4 @@
-# Hi there, I'm Ismail 👋
+# Hi there, I'm Ismail
 
 I'm a second-year Computer Science student with a passion for web development and cybersecurity. Here's a bit about me and what I'm working on:
 
