@@ -31,7 +31,8 @@ I'm a second-year Computer Science student with a passion for web development an
 - **Future**: Planning to specialize in Cybersecurity
 
 ## 🔭 Projects
-
+### [Tic Tac Toe Game](https://github.com/1sma31L/tictactoe-game)
+**Tic Tac Game** is a React-based application featuring a dynamic game board with clickable cells. Players can mark cells with circles or crosses, and the game highlights the winning combination. Tailwind CSS is used for modern, responsive styling.
 ### [Music Player](https://github.com/1sma31L/Music-player)
 **Music Player** is first try on creat web music player or should I say "Where Is My Mind?" player.
 ### [To-Do List](https://github.com/1sma31L/TODO-app)
