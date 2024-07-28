@@ -34,7 +34,7 @@ I'm a second-year Computer Science student with a passion for web development an
 - **Linux**: I use Arch BTW.
 
 ## 📚 Currently Learning
-- **Fullstack Web Development (MERN Stack)**
+- **Full-Stack Web Development (MERN Stack)**
 - **Information Security.**
 
 ## 🎓 Education
