@@ -1,17 +1,26 @@
 # Hi there, I'm Ismail
 
-I'm a second-year Computer Science student with a passion for web development and cybersecurity. Here's a bit about me and what I'm working on:
+I'm a second-year Computer Science student with a passion for web development and cybersecurity. Here's a bit about me and what I'm working on.
 
 ## 🛠 Skills & Interests
 
 ### Languages  : 
 - HTML
-- CSS (TailwindCSS)
-- JavaScript/TypeScript (React)
+- CSS
+- JavaScript/TypeScript
 - C
 - Python
 - LaTeX
 
+### Frameworks And Libraries   : 
+- CSS
+    - Bootstrap
+    - TailwindCSS
+    - SASS
+- JavaScript
+    - React
+    - Redux
+  
 
 ### Interests
 - **Single Page Web Appliations**
