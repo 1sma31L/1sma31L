@@ -7,7 +7,7 @@ I'm a second-year Computer Science student with a passion for web development an
 ### Languages  : 
 - HTML
 - CSS (TailwindCSS)
-- JavaScript (React)
+- JavaScript/TypeScript (React)
 - C
 - Python
 - LaTeX
