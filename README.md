@@ -16,7 +16,7 @@ I'm a second-year Computer Science student with a passion for web development an
 - CSS
     - Bootstrap
     - TailwindCSS
-    - SASS
+    - Sass
 - JavaScript
     - React
     - Redux
