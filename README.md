@@ -14,12 +14,14 @@ I'm a second-year Computer Science student with a passion for web development an
 
 ### Frameworks And Libraries   : 
 - CSS
-    - Bootstrap
     - TailwindCSS
+    - Bootstrap
     - Sass
 - JavaScript
     - React
-    - Redux
+        - Redux
+        - React Query
+          
   
 
 ### Interests
