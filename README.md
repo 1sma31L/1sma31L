@@ -34,8 +34,8 @@ I'm a second-year Computer Science student with a passion for web development an
 - **Linux**: I use Arch BTW.
 
 ## 📚 Currently Learning
-- **MERN Stack**: (MongoDB, Express, React, Node.js)
-- **Information security.**
+- **Fullstack Web Development (MERN Stack)**
+- **Information Security.**
 
 ## 🎓 Education
 - **Current**: Engineer degree in Computer Science, Higher National School of Advanced Technologies - Algeria, 2nd Year.
