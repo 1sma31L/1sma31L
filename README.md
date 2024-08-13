@@ -20,7 +20,7 @@ I'm a second-year Computer Science student with a passion for web development an
 - JavaScript
     - React
         - Redux
-        - React Query
+    - Next.js
           
   
 
