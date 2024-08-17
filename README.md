@@ -42,6 +42,8 @@ I'm a second-year Computer Science student with a passion for web development an
 - **Future**: Planning to specialize in Cybersecurity
 
 ## 🔭 Projects
+### [My Portfolio](https://github.com/1sma31L/portfolio)
+Check out my protfolio at www.ismailboussekine.me.
 ### [My University Introduction Website](https://github.com/1sma31L/ensta)
 **ENSTA** is website i made using React and TialwindCSS to share informations and famous asked questions for newly graduated Bachelor’s.
 ### [Tic Tac Toe Game](https://github.com/1sma31L/tictactoe-game)
