@@ -17,10 +17,11 @@ I'm a second-year Computer Science student with a passion for web development an
     - TailwindCSS
     - Bootstrap
     - Sass
-- JavaScript
+- JavaScript/TypeScript
     - React
         - Redux
     - Next.js
+    - Node.js
           
   
 
