@@ -9,7 +9,7 @@
 
 * 🌱 I’m currently learning **Express**
 
-* 👨‍💻 See my projects at [ismailboussekine.me](ismailboussekine.me)
+* 👨‍💻 See my projects at [ismailboussekine.me](https://ismailboussekine.me)
 
 * 📫 reach me **im.boussekine@gmail.com**
 
