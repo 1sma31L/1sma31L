@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/11sma31l" target="blank"><img src="https://img.shields.io/twitter/follow/11sma31l?logo=twitter&style=for-the-badge" alt="11sma31l" /></a> </p>
 
-* 🔭 I’m currently working on **Rebuilding my portfolio and developing my personal blog**
+* 🔭 I’m currently working on **Developing my personal blog**
 
 * 🌱 I’m currently learning **Express**
 
@@ -13,7 +13,7 @@
 
 * 📫 reach me **im.boussekine@gmail.com**
 
-* ⚡ About me: nothing to say really i just do web and computers 🖥
+* ⚡ I just do web and computers 🖥
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
