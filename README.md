@@ -15,6 +15,11 @@
 
 * ⚡ I just do web and computers 🖥
 
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/11sma31l" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" alt="11sma31l" height="40" width="40" /></a>
