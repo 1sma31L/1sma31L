@@ -1,9 +1,9 @@
-<h1 align="center">Hey There! 👋</h1>
-<h4 align="center">I'm Ismail frontend developer from Algeria</h4>
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1sma31l&label=Profile%20views&color=0e75b6&style=flat" alt="1sma31l" /> </p>
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Ismail?style=social)](https://x/11sma31l)
-<p align="left"> <a href="https://twitter.com/11sma31l" target="blank"><img src="https://img.shields.io/twitter/follow/11sma31l?logo=twitter&style=for-the-badge" alt="11sma31l" /></a> </p>
+![MasterHead](./assets/banner.png)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=1sma31l&label=Saw+my+profile&color=000000&style=flat" alt="1sma31l" /> </p>
+
+I just do web and computers.
+
 
 * 🔭 I’m currently working on **Developing my personal blog**
 
@@ -13,18 +13,10 @@
 
 * 📫 reach me **im.boussekine@gmail.com**
 
-* ⚡ I just do web and computers 🖥
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/11sma31l" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" alt="11sma31l" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/ismail-boussekine" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ismail-boussekine" height="40" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -33,10 +25,18 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=default#gh-light-mode-only)
 
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&locale=en" alt="1sma31l" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark#gh-dark-mode-only)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1sma31l&" alt="1sma31l" /></p>
+
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&theme=dark)
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=1sma31l&theme=dark)
+
+<h3 align="center">Connect with me:</h3>
+<p align="center" style="width:100%;display:flex;justify-content:center;align-items:center; gap:10px" >
+<a href="https://x.com/11sma31l" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.svg" alt="11sma31l" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/ismail-boussekine" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ismail-boussekine" height="40" width="40" /></a>
+</p>
+<hr>
