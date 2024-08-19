@@ -29,9 +29,9 @@
 
 
 <div style="display:flex;flex-wrap:wrap; gap:10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark&bg_color=000&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&theme=dark&bg_color=000&custom_title=My+Stats&rank_icon=github&icon_color=f08604&text_color=ffffff" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1sma31l&theme=dark&background=000&ring=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark&bg_color=0c1017&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&theme=dark&bg_color=0c1017&custom_title=My+Stats&rank_icon=github&icon_color=f08604&text_color=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1sma31l&theme=dark&background=0c1017&ring=ffffff">
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark#gh-dark-mode-only) -->
