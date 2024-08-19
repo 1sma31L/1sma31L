@@ -13,7 +13,7 @@
 
 * 📫 reach me **im.boussekine@gmail.com**
 
-* ⚡ What i do **i make computers go beep beep**
+* ⚡ About me: nothing to say really i just do web and computers 🖥
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
