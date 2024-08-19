@@ -1,4 +1,4 @@
-![MasterHead](./assets/banner.png)
+![MasterHead](./assets/1sma31l.png)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1sma31l&label=Saw+my+profile&color=000000&style=flat" alt="1sma31l" /> </p>
 
