@@ -33,8 +33,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark#gh-dark-mode-only" alt="1sma31l" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=default#gh-light-mode-only" alt="1sma31l" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=default#gh-light-mode-only)
 
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&locale=en" alt="1sma31l" /></p>
