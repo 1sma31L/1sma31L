@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=1sma31l&label=Saw+my+profile&color=000000&style=flat" alt="1sma31l" /> </p>
 
-I just do web and computers.
+<p align="center"><h1 style="font-size: 25px"><strong>I just do web and computers.</strong></h1></p>
 
 
 * 🔭 I’m currently working on **Developing my personal blog**
@@ -29,9 +29,9 @@ I just do web and computers.
 
 
 <div style="display:flex;flex-wrap:wrap; gap:10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark#gh-dark-mode-only" />
-  <img src="https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1sma31l&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark&bg_color=000&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&theme=dark&bg_color=000&custom_title=My+Stats&rank_icon=github&icon_color=f08604&text_color=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1sma31l&theme=dark&background=000&ring=ffffff">
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark#gh-dark-mode-only) -->
