@@ -2,7 +2,7 @@
 <h4 align="center">I'm Ismail frontend developer from Algeria</h4>
 <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1sma31l&label=Profile%20views&color=0e75b6&style=flat" alt="1sma31l" /> </p>
-
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Ismail?style=social)](https://x/11sma31l)
 <p align="left"> <a href="https://twitter.com/11sma31l" target="blank"><img src="https://img.shields.io/twitter/follow/11sma31l?logo=twitter&style=for-the-badge" alt="11sma31l" /></a> </p>
 
 * 🔭 I’m currently working on **Developing my personal blog**
