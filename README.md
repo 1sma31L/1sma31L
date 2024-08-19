@@ -1,6 +1,6 @@
 <h1 align="center">Hey There! 👋</h1>
 <h4 align="center">I'm Ismail frontend developer from Algeria</h4>
-
+<img src="https://giffiles.alphacoders.com/147/147569.gif" alt="gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1sma31l&label=Profile%20views&color=0e75b6&style=flat" alt="1sma31l" /> </p>
 
 <p align="left"> <a href="https://twitter.com/11sma31l" target="blank"><img src="https://img.shields.io/twitter/follow/11sma31l?logo=twitter&style=for-the-badge" alt="11sma31l" /></a> </p>
