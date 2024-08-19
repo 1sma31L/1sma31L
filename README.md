@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/11sma31l" target="blank"><img src="https://img.shields.io/twitter/follow/11sma31l?logo=twitter&style=for-the-badge" alt="11sma31l" /></a> </p>
 
-* 🔭 I’m currently working on **My blog**
+* 🔭 I’m currently working on **Rebuilding my portfolio and developing my personal blog**
 
 * 🌱 I’m currently learning **Express**
 
-* 👨‍💻 All of my projects are available at [ismailboussekine.me](ismailboussekine.me)
+* 👨‍💻 See my projects at [ismailboussekine.me](ismailboussekine.me)
 
-* 📫 How to reach me **im.boussekine@gmail.com**
+* 📫 reach me **im.boussekine@gmail.com**
 
 * ⚡ What i do **i make computers go beep beep**
 
