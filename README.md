@@ -27,12 +27,19 @@ I just do web and computers.
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark#gh-dark-mode-only)
 
+<div style="display:flex;flex-wrap:wrap; gap:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1sma31l&theme=dark">
+</div>
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1sma31l&theme=dark#gh-dark-mode-only) -->
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=1sma31l&theme=dark)
+<!-- 
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=1sma31l&show_icons=true&theme=dark) -->
+
+<!-- ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=1sma31l&theme=dark) -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="width:100%;display:flex;justify-content:center;align-items:center; gap:10px" >
