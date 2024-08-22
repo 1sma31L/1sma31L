@@ -5,9 +5,7 @@
 <p align="center"><h1 style="font-size: 25px"><strong>I just do web and computers.</strong></h1></p>
 
 
-* 🔭 I’m currently working on **Developing my personal blog**
-
-* 🌱 I’m currently learning **Express**
+* 🌱 I’m currently learning **Express and MongoDB**
 
 * 👨‍💻 See my projects at [ismailboussekine.me](https://ismailboussekine.me)
 
