@@ -3,7 +3,7 @@
 <p align="center"><h1 style="font-size: 25px"><strong>I just do web and computers.</strong></h1></p>
 
 
-* 👨‍💻 See my projects at [ismailboussekine.me](https://ismailboussekine.me)
+* 👨‍💻 See my projects at [my website](https://ismailboussekine.me/projects)
 
 * 📫 reach me **im.boussekine@gmail.com**
 
