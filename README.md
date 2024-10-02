@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=1sma31l&label=Saw+my+profile&color=000000&style=flat" alt="1sma31l" /> </p>
-
 <p align="center"><h1 style="font-size: 25px"><strong>I just do web and computers.</strong></h1></p>
 
 
