@@ -1,7 +1,7 @@
 <p align="center"><h1 style="font-size: 25px"><strong>I just do web and computers.</strong></h1></p>
 
 
-* 👨‍💻 See my projects at [**my website**](https://ismailboussekine.me/projects)
+* 👨‍💻 See my projects at [**my website**](https://ismailboussekine.dev/projects)
 
 * 📫 reach me **im.boussekine@gmail.com**
 
